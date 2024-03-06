@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Seth Messier and this is my profile
 
-See the "Stars" tab for repositories with the "projects" tag for examples of my project experience.
+See the "Stars" tab for repositories with the "Projects" tag for examples of my project experience.
 <!--
 **SethMess/SethMess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
